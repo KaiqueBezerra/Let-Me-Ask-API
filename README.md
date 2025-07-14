@@ -48,6 +48,7 @@ Crie um arquivo `.env` na raiz do projeto:
 ```env
 PORT=3333
 DATABASE_URL=postgresql://docker:docker@localhost:5432/agents
+GEMINI_API_KEY=SUA_CHAVE_API_GEMINI
 ```
 
 ### 4. Instale as dependências
